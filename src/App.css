@@ -1,0 +1,8 @@
+.quotes{
+    display: flex;
+    margin-left: 50px;
+}
+.category-list{
+    margin-right: 20px;
+    width: 200px;
+}
